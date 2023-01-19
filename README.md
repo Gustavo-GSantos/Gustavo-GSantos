@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&duration=3500&pause=2000&color=0082F7&background=FF000000&width=435&lines=Hello+there!+Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&duration=3500&pause=3000&color=0082F7&background=FF000000&vCenter=true&width=435&lines=Hello+there!+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ## 👨‍💻 About me:
 * 📚 Hi, my name is Gustavo and I'm currently studying computer science at UFSC.
 * 💻 I am currently working as a Developer at the Laboratório de Segurança em Computação - LabSEC/UFSC.
 * 🌟 My goal is to be a full stack developer.
 * ⚡ I am currently improving my skills with React, Nodejs and Javascript.
+
+[![Profile](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gustavo-gsantos.github.io)
 
 ## 🖥️ Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))

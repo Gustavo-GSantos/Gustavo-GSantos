@@ -6,7 +6,7 @@
 * 🌟 My goal is to be a full stack developer.
 * ⚡ I am currently improving my skills with React, Nodejs and Javascript.
 
-[![Profile](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gustavo-gsantos.github.io)
+[![Profile](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gustavogds.github.io)
 
 ## 🖥️ Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))

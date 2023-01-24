@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&duration=3500&pause=3000&color=0082F7&background=FF000000&vCenter=true&width=435&lines=Hello+there!+Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=28&duration=3500&pause=3000&color=0082F7&vCenter=true&width=435&lines=Hello+there!+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ## 👨‍💻 About me:
 * 📚 Hi, my name is Gustavo and I'm currently studying computer science at UFSC.

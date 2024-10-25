@@ -2,9 +2,8 @@
 
 ## 👨‍💻 About me:
 * 📚 Hi, my name is Gustavo and I'm currently studying computer science at UFSC.
-* 💻 I am currently working as a Developer at the Laboratório de Segurança em Computação - LabSEC/UFSC.
-* 🌟 My goal is to be a full stack developer.
-* ⚡ I am currently improving my skills with React, Nodejs and Javascript.
+* 💻 I am currently working as a Full Stack Developer at OnsignTV.
+* ⚡ I am currently improving my skills with VueJS, Python and Django.
 
 [![Profile](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gustavogds.github.io/)
 
@@ -31,5 +30,5 @@
 
 ## 📨 Contact:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_s1/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-5bbaaa207/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavogds142000@gmail.com)
